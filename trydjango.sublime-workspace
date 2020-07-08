@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pro",
+				"ProductForm"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"my",
+				"my_context"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Blog/models.py",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Blog/views.py",
+			"settings":
+			{
+				"buffer_size": 358,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Blog/apps.py",
+			"settings":
+			{
+				"buffer_size": 83,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Blog/urls.py",
+			"settings":
+			{
+				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Prakash/Dev/psprojects",
+		"/C/Users/Prakash/Dev/psprojects/src",
+		"/C/Users/Prakash/Dev/psprojects/src/blog",
+		"/C/Users/Prakash/Dev/psprojects/src/trydjango"
+	],
+	"file_history":
+	[
+		"/C/Users/Prakash/Dev/psprojects/src/products/urls.py",
+		"/C/Users/Prakash/Dev/psprojects/src/trydjango/urls.py",
+		"/C/Users/Prakash/Dev/psprojects/src/Blog/urls.py",
+		"/C/Users/Prakash/Dev/psprojects/src/products/admin.py",
+		"/C/Users/Prakash/Dev/psprojects/src/Blog/admin.py",
+		"/C/Users/Prakash/Dev/psprojects/src/Blog/views.py",
+		"/C/Users/Prakash/Dev/psprojects/src/products/views.py",
+		"/C/Users/Prakash/Dev/psprojects/src/templates/navbar.html",
+		"/C/Users/Prakash/Dev/psprojects/src/products/models.py",
+		"/C/Users/Prakash/Dev/psprojects/src/products/forms.py",
+		"/C/Users/Prakash/Dev/psprojects/src/products/templates/products/product_create.html",
+		"/C/Users/Prakash/Dev/psprojects/src/products/templates/products/product_detail.html",
+		"/C/Users/Prakash/Dev/psprojects/src/products/templates/products/urls.py",
+		"/C/Users/Prakash/Dev/psprojects/src/products/templates/products/product_delete.html",
+		"/C/Users/Prakash/Dev/psprojects/src/products/templates/products/product_list.html",
+		"/C/Users/Prakash/Dev/psprojects/src/trydjango/settings.py",
+		"/C/Users/Prakash/Dev/psprojects/src/products/products/templates/product_detail.html",
+		"/C/Users/Prakash/Dev/psprojects/src/templates/product/detail.html",
+		"/C/Users/Prakash/Dev/psprojects/src/products/templates/product_detail.html",
+		"/C/Users/Prakash/Dev/psprojects/src/templates/base.html",
+		"/C/Users/Prakash/Dev/psprojects/src/templates/home.html",
+		"/C/Users/Prakash/Dev/psprojects/src/pages/views.py",
+		"/C/Users/Prakash/Dev/psprojects/src/templates/about.html",
+		"/C/Users/Prakash/Dev/psprojects/src/templates/contact.html",
+		"/C/Users/Prakash/Dev/psprojects/src/products/migrations/0002_product_summary.py",
+		"/C/Users/Prakash/Dev/cfeproj/Pipfile"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"coming",
+			"):\n",
+			"}\n",
+			"!')",
+			"def home_view(*args, **kwargs):\n\treturn HttpResponse('Hello World!')"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Blog/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Blog/apps.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Blog/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
